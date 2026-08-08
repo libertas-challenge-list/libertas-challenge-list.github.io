@@ -52,3 +52,16 @@
 .nav .nav__actions .nav__cta:hover:not(:active) {
     transform: translateY(-2px);
 }
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+header .nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
