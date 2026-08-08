@@ -17,10 +17,10 @@
     border-color: var(--color-on-primary);
 }
 .nav .nav__actions {
-    flex: 1;
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
+    gap: 0.5rem;
 }
 .nav .nav__actions .nav__icon {
     height: 3rem;
