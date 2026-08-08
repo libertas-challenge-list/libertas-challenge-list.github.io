@@ -98,6 +98,16 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Requirements to Create a Level</h3>
+                    <p>
+                        Level must be under 30 seconds long, and it must be made and verified by Libertas memebers.
+                    </p>
+                    <p>    
+                        Multiple people can work on a level.
+                    </p>
+                    <p>
+                        Verifier can be someone that didn't work on the level.
+                    </p>
                     <h3>Submission Requirements</h3>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, along with CBF)
