@@ -1,0 +1,18 @@
+{
+    "id": 147684346,
+    "name": "NIX",
+    "author": "FFettu",
+    "creators": ["FFettu"],
+    "verifier": "Aethr0",
+    "verification": "https://www.youtube.com/watch?v=W3t4-Uy-23Q",
+    "percentToQualify": 40,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "zEklAb",
+            "link": "https://youtu.be/qlOvZAMY0oM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
