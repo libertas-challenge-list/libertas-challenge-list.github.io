@@ -8,6 +8,11 @@
     "percentToQualify": 40,
     "password": "Free To Copy",
     "records": [
-        
+        {
+            "user": "Aethr0",
+            "link": "https://youtu.be/Ha3c1JY0T2Y",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
