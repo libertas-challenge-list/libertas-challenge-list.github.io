@@ -55,8 +55,8 @@ export default {
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                         <li>
-                            <div v-if="level.tps" class="type-title-sm">FPS</div>
-                            <div v-else class="type-title-sm">TPS</div>
+                            <div v-if="level.tps" class="type-title-sm">TPS</div>
+                            <div v-else class="type-title-sm">FPS</div>
                             <p>{{ level.fpsORtps || 'Unspecified' }}</p>
                         </li>
                     </ul>
