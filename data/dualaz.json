@@ -8,7 +8,7 @@
     "percentToQualify": 45,
     "password": "Free To Copy",
     "fpsORtps": "240",
-    "tps": false,
+    "tps": true,
     "records": [
         
     ]
